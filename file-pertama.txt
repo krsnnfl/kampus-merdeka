@@ -3,7 +3,6 @@ Saya sudah mempelajari :
 -HTML
 -CSS
 -JAVASCRIPT
-
 Sekarang saya mulai mempelajari GITHUB:
 -Pengenalan
 -Pembuatan Akun
